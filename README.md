@@ -14,13 +14,13 @@ If you are in search of a skilled and experienced team for your next project, lo
 
 <h3 align="left">Previous Projects:</h3>
 
-[Fashionnova](https://womenfashionnova.com/)
-[Adsreveal](https://app.adsreveal.com/)
-[Enigmatix OMS](https://www.oms.enigmatix.co/login)
-[OUTDOORS](https://spectacular-swan-1fb30a.netlify.app/)
-[DLT Alert Solutions](https://dapper-basbousa-1e8675.netlify.app/)
-[DG-Cloth](https://dev-dg-cloth.pantheonsite.io/)
-[Omnifood](https://food-site-portfolio.netlify.app/)
+- [Fashionnova](https://womenfashionnova.com/)
+- [Adsreveal](https://app.adsreveal.com/)
+- [Enigmatix OMS](https://www.oms.enigmatix.co/login)
+- [OUTDOORS](https://spectacular-swan-1fb30a.netlify.app/)
+- [DLT Alert Solutions](https://dapper-basbousa-1e8675.netlify.app/)
+- [DG-Cloth](https://dev-dg-cloth.pantheonsite.io/)
+- [Omnifood](https://food-site-portfolio.netlify.app/)
 
 <h3 align="left">Connect with US:</h3>
 <p align="left">
