@@ -1,8 +1,8 @@
+```html
 <h1 align="center">Hi , I'm AbuZain</h1>
 <h3 align="center">Team lead | Project Manager | Software Developer</h3>
 <p>
-I am  the leader of a dynamic team of experts, we collectively delivered over<span 
-color='orange' fontWeight='bold'> 20 successful</span> projects in the past year. Recognized as a Level 2 seller on Fiverr, our commitment to excellence and client satisfaction is evident in every endeavor.
+I am  the leader of a dynamic team of experts, we collectively delivered over<span style='color:orange;font-weight:bold'> 20 successful</span> projects in the past year. Recognized as a Level 2 seller on Fiverr, our commitment to excellence and client satisfaction is evident in every endeavor.
 </p>
 Our proficiency spans a diverse set of technologies, including <span style='color:orange;font-weight:500'>
 JavaScript, Python, Java, TypeScript, Figma, Adobe XD, Photoshop, Illustrator,MongoDB, MySQL, PostgreSQL,Webpack, Git, Babel, Linux, Postman,Jest, Selenium, Amazon Web Services (AWS), Docker, Jenkins</span>, enabling us to craft solutions that are both innovative and reliable
@@ -96,3 +96,5 @@ If you are in search of a skilled and experienced team for your next project, lo
  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </div>
 
+
+```
