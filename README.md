@@ -3,25 +3,21 @@
 <h1 align="center">Hi , I'm AbuZain</h1>
 <h3 align="center">Software Developer</h3>
 <p>
-I am  the leader of a dynamic team of experts, we collectively delivered over
-- <span > 20 successfull</span>
- projects in the past year. Recognized as a Level 2 seller on Fiverr, our commitment to excellence and client satisfaction is evident in every endeavor.
+I am Abu Zain, a seasoned full-stack developer with 3 years of experience, previously at Engitx and currently with Devtick. I have successfully delivered projects such as:
 </p>
-Our proficiency spans a diverse set of technologies, including <span >
-JavaScript, Python, Java, TypeScript, Figma, Adobe XD, Photoshop, Illustrator,MongoDB, MySQL, PostgreSQL,Webpack, Git, Babel, Linux, Postman,Jest, Selenium, Amazon Web Services (AWS), Docker, Jenkins</span>, enabling us to craft solutions that are both innovative and reliable
-
-If you are in search of a skilled and experienced team for your next project, look no further. Abuzain432432 and the team are ready to discuss your requirements and bring your vision to life. For inquiries and collaboration, feel free to reach out through the provided contact information. Let's turn your ideas into reality!
-
 <h3 align="left">Previous Projects:</h3>
-
-- [Adsreveal](https://app.adsreveal.com/)
+- [Pafyll](https://pafyll.com/en-NO)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/login)
 - [OUTDOORS](https://spectacular-swan-1fb30a.netlify.app/)
 - [DLT Alert Solutions](https://dapper-basbousa-1e8675.netlify.app/)
 - [DG-Cloth](https://dev-dg-cloth.pantheonsite.io/)
 - [Omnifood](https://food-site-portfolio.netlify.app/)
 
-<h3 align="left">Connect with US:</h3>
+my proficiency spans a diverse set of technologies, including <span >
+JavaScript, Python, Java, TypeScript, MySQL,Webpack, Git, Babel, Linux, Postman,Jest,Next, React, Taliwind CSS, Bootstrap</span>, enabling me to craft solutions that are both innovative and reliable
+
+
+<h3 align="left">Connect with ME:</h3>
 <p align="left">
 <a href="https://www.fiverr.com/zainbinramzan/develop-web-applications-with-mern-stack-react-node-express-moongodb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="https://www.linkedin.com/in/abu-zain-html-css-javascipt-developer/" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/abu-zain-html-css-javascipt-developer/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/abu-zain-html-css-javascipt-developer/" height="30" width="40" /></a>
