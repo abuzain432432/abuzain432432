@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi , I'm AbuZain</h1>
-<h3 align="center">Team lead | Project Manager | Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p>
 I am  the leader of a dynamic team of experts, we collectively delivered over
 - <span > 20 successfull</span>
