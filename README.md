@@ -14,7 +14,6 @@ If you are in search of a skilled and experienced team for your next project, lo
 
 <h3 align="left">Previous Projects:</h3>
 
-- [Fashionnova](https://womenfashionnova.com/)
 - [Adsreveal](https://app.adsreveal.com/)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/login)
 - [OUTDOORS](https://spectacular-swan-1fb30a.netlify.app/)
