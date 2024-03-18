@@ -6,7 +6,6 @@
 I am Abu Zain, a seasoned full-stack developer with 3 years of experience, previously at Engitx and currently with Devtick. I have successfully delivered projects such as:
 </p>
 <h3 align="left">Previous Projects:</h3>
-- [Pafyll](https://pafyll.com/en-NO)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/login)
 - [OUTDOORS](https://spectacular-swan-1fb30a.netlify.app/)
 - [DLT Alert Solutions](https://dapper-basbousa-1e8675.netlify.app/)
