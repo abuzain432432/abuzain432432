@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm a</h1>
 <h3 align="center">Software Developer</h3>
 <p>
-I am Mohammad Ahmed Saeed, a seasoned full-stack developer with 5 years of experience, previously at Engitx and currently with Devtick. I have successfully delivered projects such as:
+I am a seasoned full-stack developer with 5 years of experience, previously at Engitx and currently with Devtick. I have successfully delivered projects such as:
 </p>
 <h3 align="left">Previous Projects:</h3>
 - [Enigmatix OMS](https://www.oms.enigmatix.co/login)
